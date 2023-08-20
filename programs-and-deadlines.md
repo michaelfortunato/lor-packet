@@ -2,6 +2,9 @@
 
 _This table is also available as a Google Sheet at the following URL: <https://docs.google.com/spreadsheets/d/1LRnKkNcBfR1chM72nUeD50yE1twji9s5ZMiBFW48mNM/edit?usp=sharing>.  It made it so it might be easier for you all to keep track. You can download the table for your own records if helpful._
 
+    These professors were chosen very thoughtfully in that their research interests align 
+    with mine. I have read many of their papers over the summer. If you know any of these names and want to reach out to them on my behalf, that would be immensely helpful :) 
+
 
 | Institution            | Degree                                  | Where To Send                                                                           | Deadline          | Professor #1                                   | Professor #2                   | Professor #3                | Preference |
 |------------------------|-----------------------------------------|------------------------------------------------------------------------------------------|-------------------|-----------------------------------------------|-------------------------------|----------------------------|------------|
