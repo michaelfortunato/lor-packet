@@ -14,3 +14,10 @@ Michael
 - [Research Interests](research-interests)
 - [CV](cv)
 - [Thank you](thank-you)
+
+[1]: https://github.com/olgabot/sciencemeetproductivity.tumblr.com/blob/master/posts/2012/08/how-to-request-a-letter-of-recommendation.md
+[2]: https://passlab.github.io/CSCE513/notes/lecture10_LocalityMM.pdf
+[3]: https://www.beckershospitalreview.com/ehrs/epic-s-huge-healthcare-impact-5-stats.html#:~:text=More%20than%20253%20million%20U.S.,an%20electronic%20record%20in%20Epic.
+[4]: https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+[5]: https://www.w3schools.com/python/python_for_loops.asp
+[6]: https://en.wikipedia.org/wiki/Agile_software_development 
