@@ -21,7 +21,7 @@ Here are some stats about the Data Profiling Tool
 4. Internally the Data Profiling Tool had a well thought out, extensible architecture that I designed[4][4], which allowed me to effectively mentor and onboard 7 interns and 2 new full-times developers during my time on the application, and led to very fast growth of the product.
 5. The application has user auth (sign in, sign on, and varying levels of permissions), the ability to create, update and delete profiles, and parallel programming. 
 
-## Role 2 - Kernel Developer - Promoted to the Core Group 
+## Role 2 - Kernel Developer - Joined Core Group 
 (13 developers, 10 of which have at least 20 years of experience as a compiler or database engineer working at company's like DEC, Intel, or were founding developers at InterSystems).
 
 The core group of InterSystems is comprised of 13 operating system developers and is called the Kernel group. As the name suggests, the Kernel group is responsible for the underlying core database of InterSystems. Most members are industries veterans with advanced degrees, and I am one of the two developers under 30.
@@ -32,7 +32,7 @@ The Kernel team has a C and Rust codebase (I am writing the first Rust program),
 3. Developing and optimizing the ObjectScript runtime/virtual machine.
 
 ### How I Got In
-As I mentioned above, the majority of members of that team either have advanced degrees or many years of industry expertise. In fact, in order to be promoted to that team, InterSystem's founder and CEO decides personally who is able to work for the group and reviews each app himself.
+As I mentioned above, the majority of members of that team either have advanced degrees or many years of industry expertise. In fact, in order to join that team, InterSystem's founder and CEO decides personally who is able to work for the group and reviews each app himself.
 
 It was my dream to join this team because of its research nature and because of the class of problems they were tackling: compiler theory and general systems development with an emphasis on research and performance. 
 
