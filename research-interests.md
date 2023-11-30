@@ -2,7 +2,7 @@
 
  I am interested long term in researching the following question: 
  
-    How can we define system level software problems formally, and how can we use machine learning to improve the performance of systems level software?
+    How can we define system level software problems formally, and how can we use these defintions to improve the performance of systems level software?
 
 
 I am interested in questions such as: 
