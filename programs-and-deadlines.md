@@ -1,5 +1,7 @@
 # Programs and Deadlines
 
+Here is my statement of purpose for reference: <a href="./Statement of Purpose.pdf">Click here</a>.
+
 _This table is also available as a Google Sheet at the following URL: <https://docs.google.com/spreadsheets/d/1LRnKkNcBfR1chM72nUeD50yE1twji9s5ZMiBFW48mNM/edit?usp=sharing>.  It made it so it might be easier for you all to keep track. You can download the table for your own records if helpful._
 
     These professors were chosen very thoughtfully in that their research interests align 
