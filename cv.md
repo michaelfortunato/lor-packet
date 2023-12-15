@@ -1,1 +1,1 @@
-Click <a href="./CV.pdf">here</a> to download my CV.
+Click <a href="./Resume.pdf">here</a> to download my CV.
