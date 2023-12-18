@@ -18,6 +18,9 @@ _This table is also available as a Google Sheet at the following URL: <https://d
 | USC                   | M.S. In Computer Science                 | [Link](https://cs.illinois.edu/academics/graduate/ms-program)                            | December 15, 2023|   |                            |                            |           |
 | UC Irvine                   | M.S. In Computer Science                 | [Link](https://cs.illinois.edu/academics/graduate/ms-program)                            | December 15, 2023|   |                            |                            |           |
 | Cambridge University   | M.Phil In Advanced Computer Science      | [Link](https://www.postgraduate.study.cam.ac.uk/courses/directory/cscsmpacs)            | Feb. 24, 2024     | [Simon Moore](mailto:simon.moore@cl.cam.ac.uk) | [Anuj Dawar](mailto:anuj.dawar@cl.cam.ac.uk) | [Andrew Moore](mailto:andrew.moore@cl.cam.ac.uk) | 6          |
+| UNC | | | | | | | 
+| UCL | | | | | | |
+| Georgia Tech |  || || | | |
 | Stanford               | M.S In Computer Science (Thesis Plan)    | [Link](https://online.stanford.edu/programs/computer-science-ms-degree)                  | December 15, 2023 |                                           |                            |                            |           |
 | Columbia University   | M.S. In Computer Science (Thesis Plan)  | [Link](https://www.cs.columbia.edu/education/admissions8/#masters)                        | January 15, 2024| [Roxana Geambasu](mailto:Roxana@cs.columbia.edu) | [Junfeng Yang](mailto:junfeng@cs.columbia.edu) | [Ronghui Gu](mailto:ronghui.gu@columbia.edu) | 8          |
 
