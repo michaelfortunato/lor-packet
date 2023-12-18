@@ -38,17 +38,3 @@ Trinabh Gupta - Computer Systems With Privacy
 Tevfik Bultan - PL and Verifcation
 Johnathan Balkind
 
-
-
-Send out Reccomender Emails - All December 15th LOL
-USCB - Done/Need John Lafferty
-USCD - Done/Need John Lafferty
-USC - Done/Need John Lafferty
-UCI - Done/Need John Lafferty
-UT Austin - Done/Need John Lafferty
-
-
-Hi John? 
-I am so sorry to keep bothering you, its just that the letter of reccomendation deadlines for Berkeley and Stanford have passed
-and I need to know if you are still able to write me a letter. 
-Its totally fine if not (lie), but I will have to find someone else to write me one in that case. 
